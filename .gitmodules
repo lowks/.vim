@@ -28,3 +28,21 @@
 [submodule "bundle/Command-T"]
 	path = bundle/Command-T
 	url = https://github.com/vim-scripts/Command-T.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = git://github.com/tpope/vim-repeat.git
+[submodule "bundle/vim-scmdiff"]
+	path = bundle/vim-scmdiff
+	url = https://github.com/ghewgill/vim-scmdiff.git
+[submodule "bundle/Source-Explorer-srcexpl"]
+	path = bundle/Source-Explorer-srcexpl
+	url = https://github.com/vim-scripts/Source-Explorer-srcexpl.vim.git
+[submodule "bundle/vim-yankring"]
+	path = bundle/vim-yankring
+	url = https://github.com/chrismetcalf/vim-yankring.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
