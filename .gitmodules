@@ -1,0 +1,24 @@
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/conque-term"]
+	path = bundle/conque-term
+	url = https://github.com/rosenfeld/conque-term.git
+[submodule "bundle/python.vim"]
+	path = bundle/python.vim
+	url = https://github.com/vim-scripts/python.vim.git
+[submodule "bundle/php.vim"]
+	path = bundle/php.vim
+	url = https://github.com/jqlblue/php-vim.git
+[submodule "bundle/vim-bufexplorer"]
+	path = bundle/vim-bufexplorer
+	url = https://github.com/slack/vim-bufexplorer.git
+[submodule "bundle/vim-align"]
+	path = bundle/vim-align
+	url = https://github.com/tsaleh/vim-align.git
