@@ -22,3 +22,9 @@
 [submodule "bundle/vim-align"]
 	path = bundle/vim-align
 	url = https://github.com/tsaleh/vim-align.git
+[submodule "bundle/molly.vim"]
+	path = bundle/molly.vim
+	url = https://github.com/vim-scripts/molly.vim.git
+[submodule "bundle/Command-T"]
+	path = bundle/Command-T
+	url = https://github.com/vim-scripts/Command-T.git
