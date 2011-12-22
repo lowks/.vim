@@ -102,3 +102,5 @@ set smartindent
 set tabstop=4
 set shiftwidth=4
 set expandtab
+
+let g:loaded_repeat=10
