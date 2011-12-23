@@ -102,3 +102,6 @@ set smartindent
 set tabstop=4
 set shiftwidth=4
 set expandtab
+
+"nice colors in \e psql
+au BufRead /tmp/psql.edit.* set syntax=sql
