@@ -82,7 +82,6 @@ set winminwidth=0
 map <S-C-L> <C-W>h<C-W>|
 map <S-C-H> <C-W>l<C-W>|
 
-let g:pydiction_location = "/home/lowks/.vim/after/ftplugin/complete-dict"
 syntax enable
 call pathogen#infect()
 call pathogen#helptags()
@@ -105,3 +104,6 @@ set expandtab
 
 "nice colors in \e psql
 au BufRead /tmp/psql.edit.* set syntax=sql
+
+"pydiction
+let g:pydiction_location = "/home/lowks/.vim/bundle/Pydiction/complete-dict"
