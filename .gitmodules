@@ -49,3 +49,9 @@
 [submodule "bundle/SearchComplete"]
 	path = bundle/SearchComplete
 	url = https://github.com/vim-scripts/SearchComplete.git
+[submodule "bundle/Pydiction"]
+	path = bundle/Pydiction
+	url = https://github.com/vim-scripts/Pydiction.git
+[submodule "bundle/Pydiction"]
+	path = bundle/netrw.vim
+	url = https://github.com/vim-scripts/netrw.vim.git
