@@ -55,3 +55,6 @@
 [submodule "bundle/Pydiction"]
 	path = bundle/netrw.vim
 	url = https://github.com/vim-scripts/netrw.vim.git
+[submodule "bundle/vim-autoclose"]
+	path = bundle/vim-autoclose
+	url = https://github.com/Townk/vim-autoclose.git
