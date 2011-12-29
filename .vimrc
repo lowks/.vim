@@ -107,3 +107,9 @@ au BufRead /tmp/psql.edit.* set syntax=sql
 
 "pydiction
 let g:pydiction_location = "/home/lowks/.vim/bundle/Pydiction/complete-dict"
+
+"remove whitespaces
+autocmd BufWritePre * :%s/\s\+$//e
+
+"Calling pyflakes
+autocmd FileType python map <buffer> <F7> :call Pyflakes()<CR>
