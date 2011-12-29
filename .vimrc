@@ -113,3 +113,4 @@ autocmd BufWritePre * :%s/\s\+$//e
 
 "Calling pyflakes
 autocmd FileType python map <buffer> <F7> :call Pyflakes()<CR>
+autocmd FileType python map <buffer> <F8> :call Pep8()<CR>
