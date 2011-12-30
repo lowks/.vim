@@ -1,0 +1,67 @@
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/conque-term"]
+	path = bundle/conque-term
+	url = https://github.com/rosenfeld/conque-term.git
+[submodule "bundle/python.vim"]
+	path = bundle/python.vim
+	url = https://github.com/vim-scripts/python.vim.git
+[submodule "bundle/php.vim"]
+	path = bundle/php.vim
+	url = https://github.com/jqlblue/php-vim.git
+[submodule "bundle/vim-bufexplorer"]
+	path = bundle/vim-bufexplorer
+	url = https://github.com/slack/vim-bufexplorer.git
+[submodule "bundle/vim-align"]
+	path = bundle/vim-align
+	url = https://github.com/tsaleh/vim-align.git
+[submodule "bundle/molly.vim"]
+	path = bundle/molly.vim
+	url = https://github.com/vim-scripts/molly.vim.git
+[submodule "bundle/Command-T"]
+	path = bundle/Command-T
+	url = https://github.com/vim-scripts/Command-T.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = git://github.com/tpope/vim-repeat.git
+[submodule "bundle/vim-scmdiff"]
+	path = bundle/vim-scmdiff
+	url = https://github.com/ghewgill/vim-scmdiff.git
+[submodule "bundle/Source-Explorer-srcexpl"]
+	path = bundle/Source-Explorer-srcexpl
+	url = https://github.com/vim-scripts/Source-Explorer-srcexpl.vim.git
+[submodule "bundle/vim-yankring"]
+	path = bundle/vim-yankring
+	url = https://github.com/chrismetcalf/vim-yankring.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/SearchComplete"]
+	path = bundle/SearchComplete
+	url = https://github.com/vim-scripts/SearchComplete.git
+[submodule "bundle/Pydiction"]
+	path = bundle/Pydiction
+	url = https://github.com/vim-scripts/Pydiction.git
+[submodule "bundle/vim-autoclose"]
+	path = bundle/vim-autoclose
+	url = https://github.com/Townk/vim-autoclose.git
+[submodule "bundle/netrw.vim"]
+    path = bundle/netrw.vim
+    url = https://github.com/vim-scripts/netrw.vim.git
+[submodule "bundle/vim-pep8"]
+    path = bundle/vim-pep8
+    url = https://github.com/nvie/vim-pep8.git
+[submodule "bundle/vim-pyflakes"]
+    path = bundle/vim-pyflakes
+    url = https://github.com/nvie/vim-pyflakes.git
+
